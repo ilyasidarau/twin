@@ -1,0 +1,83 @@
+{
+  "users": [
+   {
+     "id": 1,
+     "name": "Ivan", 
+     "age": 19,
+     "city": "Moscow",
+     "violationСounter": 0,     
+   },   
+   {
+     "id": 2,
+     "name": "John", 
+     "age": 26,
+     "city": "Paris",
+     "violationСounter": 1,     
+   }, 
+   {
+     "id": 3,
+     "name": "Illia", 
+     "age": 28,
+     "city": "Brest",
+     "violationСounter": 0,     
+   }, 
+   {
+     "id": 4,
+     "name": "Mary", 
+     "age": 54,
+     "city": "Gomel",
+     "violationСounter": 1,     
+   }, 
+   {
+     "id": 5,
+     "name": "Natasha", 
+     "age": 21,
+     "city": "Moscow",
+     "violationСounter": 0,     
+   }, 
+   {
+     "id": 6,
+     "name": "Igor", 
+     "age": 33,
+     "city": "Peterburg",
+     "violationСounter": 0,     
+   }, 
+   {
+     "id": 7,
+     "name": "Anna", 
+     "age": 42,
+     "city": "Warsaw",
+     "violationСounter": 0,     
+   }, 
+   {
+     "id": 8,
+     "name": "Yana", 
+     "age": 55,
+     "city": "Berlin",
+     "violationСounter": 0,     
+   }, 
+   {
+     "id": 9,
+     "name": "Roman", 
+     "age": 40,
+     "city": "Minsk",
+     "violationСounter": 3,     
+   },
+   {
+     "id": 10,
+     "name": "Andrew", 
+     "age": 29,
+     "city": "Munich",
+     "violationСounter": 4,     
+   }, 
+  ]
+  "posts": [
+    {
+      "id": 1,
+      "title": "hello"
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
